@@ -2,6 +2,7 @@
 
 A curated list of federated learning publications, re-organized from Arxiv (mostly).
 
+
 <strong>Last Update: July 17, 2020</strong>.	
 
 ## Research Areas
